@@ -2,7 +2,7 @@
 🚀 Excited to share the completion of my latest project as part of the Codebasics Data Analytics Bootcamp 3.0! 🎓
 
 I’m happy to share this Excel: AtliQ Sales Analytics project I worked on. 
-Check it out here: linkedin.com/in/mansi-kumari-9402a2310
+Check it out here: linkedin.com/in/mansi-kumari-9402a2310 Customer Performance Report.pdf
 
 I had the opportunity to create a comprehensive set of sales analytics reports, utilizing the powerful features of MS Excel. This project provided deep insights into various aspects of sales performance, tailored to meet the specific needs of AtliQ Hardwares.
 
